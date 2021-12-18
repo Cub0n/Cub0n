@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cub0n
 - 👀 I’m interested in OpenSource, Crypto, Operating Systems and many more ...
 - 🌱 I’m currently learning Rust and some Compiler Construction Principles. More to come: Machine Learning
-- 💞️ I’m looking to collaborate on sharing code
+- 💞️ I’m looking to collaborate on ... many things. Some are non tech related
 - 📫 How to reach me ... mh, good question ...
 
 <!---
