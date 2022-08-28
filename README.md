@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Christian
 - 👀 I’m interested in OpenSource, Crypto and Security, Operating Systems and many more ...
-- 🌱 I’m currently learning Rust and some Compiler Construction Principles. Machine Learning is on my list.
+- 🌱 I’m currently learning Rust and - hopefully - Machine Learning in the near time.
 - 📫 How to reach me: Ideally via LinkedIn. 
 
 <!---
